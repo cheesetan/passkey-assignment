@@ -1,0 +1,13 @@
+{
+  "Y5-RKYYq7YLsJ4Koj2dAWw": {
+    "encrypted_private_key": {
+      "ciphertext_b64u": "6Z4h2KgbWsE2s2gq_cLCyR1LkSJjy0cKztgf4INLTyoqn-SEdxAjGkE_WEYFSl42",
+      "nonce_b64u": "2OG2J2UgzFHXYWNG"
+    },
+    "public_key_b64u": "PqXvVq9c3i2a6W60yBbFXT_CkL8UBBFbBlN7VTtcVr8",
+    "rp_id": "example.com",
+    "salt_b64u": "9ccE_HoNkV-y_T3DtNswsQ",
+    "sign_counter": 3,
+    "username": "Fish"
+  }
+}
